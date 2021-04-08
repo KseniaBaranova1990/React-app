@@ -17,18 +17,3 @@ html {
     "header header header"
     "nav content content";
 }
-.header {
-  background-color: bisque;
-  grid-area: header;
-}
-.header img {
-  width: 50px;
-}
-.nav {
-  grid-area: nav;
-  background-color: brown;
-}
-.content {
-  grid-area: content;
-  background-color: cornflowerblue;
-}
